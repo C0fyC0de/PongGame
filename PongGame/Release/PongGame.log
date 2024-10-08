@@ -1,0 +1,29 @@
+﻿  main.cpp
+D:\PongProject\PongGame\main.cpp(25,173): warning C4244: 'argument': conversion from 'float' to 'size_t', possible loss of data
+D:\PongProject\PongGame\main.cpp(46,53): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+D:\PongProject\PongGame\main.cpp(46,53): warning C4244:         with
+D:\PongProject\PongGame\main.cpp(46,53): warning C4244:         [
+D:\PongProject\PongGame\main.cpp(46,53): warning C4244:             T=float
+D:\PongProject\PongGame\main.cpp(46,53): warning C4244:         ]
+D:\PongProject\PongGame\main.cpp(47,53): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+D:\PongProject\PongGame\main.cpp(47,53): warning C4244:         with
+D:\PongProject\PongGame\main.cpp(47,53): warning C4244:         [
+D:\PongProject\PongGame\main.cpp(47,53): warning C4244:             T=float
+D:\PongProject\PongGame\main.cpp(47,53): warning C4244:         ]
+D:\PongProject\PongGame\main.cpp(63,32): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+D:\PongProject\PongGame\main.cpp(63,32): warning C4244:         with
+D:\PongProject\PongGame\main.cpp(63,32): warning C4244:         [
+D:\PongProject\PongGame\main.cpp(63,32): warning C4244:             T=float
+D:\PongProject\PongGame\main.cpp(63,32): warning C4244:         ]
+D:\PongProject\PongGame\main.cpp(258,28): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\PongProject\PongGame\main.cpp(262,64): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+D:\PongProject\PongGame\main.cpp(282,45): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+D:\PongProject\PongGame\main.cpp(282,33): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+D:\PongProject\PongGame\main.cpp(287,50): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+D:\PongProject\PongGame\main.cpp(287,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  4 of 176 functions ( 2.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  PongGame.vcxproj -> D:\PongProject\PongGame\Release\PongGame.exe
